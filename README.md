@@ -7,11 +7,11 @@ Chief Technology Officer at [NetspeakGames](https://github.com/netspeakgames) Lo
 
 #### About
 
-Programmer, Hacker, Engineer building the back-end for multiplayer online games!!
+Hardworking and highly motivated Technical Leader who is passionate about building software and delivering value to customers. Having worked as a Software Engineer mainly on Distributed Systems and Platforms for most of my career, I have a wealth of experience showing strong technical leadership, commercially aware, pragmatic planning/budgeting and interpersonal skills.
 
 Building out a next generation platform for Netspeak Games! Using mainly Open Source technologies such as Kubernetes, Agones, Prometheus and Terraform.
 
-Meetup organiser in London helping organise [London Gophers](https://www.meetup.com/LondonGophers/) and [Prometheus London](https://www.meetup.com/Prometheus-London/).
+Former meetup organiser in London helping organise [London Gophers](https://www.meetup.com/LondonGophers/) and [Prometheus London](https://www.meetup.com/Prometheus-London/).
 
 #### Talks
 
