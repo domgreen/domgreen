@@ -1,15 +1,11 @@
-![image](https://user-images.githubusercontent.com/156558/160254911-09ea1bbe-cdac-46ba-a704-f86688816ac7.png)
+<p><a href="https://www.linkedin.com/in/dominicgreen"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.dndbeyond.com/members/doomgreen"><img src="https://img.shields.io/badge/dndbeyond-black.svg?&style=for-the-badge&logo=dungeonsanddragons&logoColor=red" height=25></a></p>
 
-<p><a href="https://www.twitter.com/domgreen"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/dominicgreen"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.dndbeyond.com/members/doomgreen"><img src="https://img.shields.io/badge/dndbeyond-black.svg?&style=for-the-badge&logo=dungeonsanddragons&logoColor=red" height=25></a></p>
-
-Chief Technology Officer at [NetspeakGames](https://github.com/netspeakgames) Lover of oversized pizza 🍕, craft beer 🍺and fancy pants coffee ☕ | prev [Improbable](https://github.com/improbableio) / [huddle](https://github.com/huddle) / [Microsoft](https://github.com/microsoft/)
+Lover of oversized pizza 🍕, craft beer 🍺and fancy pants coffee ☕ | prev CTO @ [NetspeakGames](https://github.com/netspeakgames)  [Improbable](https://github.com/improbableio) / [huddle](https://github.com/huddle) / [Microsoft](https://github.com/microsoft/)
 
 
 #### About
 
 Hardworking and highly motivated Technical Leader who is passionate about building software and delivering value to customers. Having worked as a Software Engineer mainly on Distributed Systems and Platforms for most of my career, I have a wealth of experience showing strong technical leadership, commercially aware, pragmatic planning/budgeting and interpersonal skills.
-
-Building out a next generation platform for Netspeak Games! Using mainly Open Source technologies such as Kubernetes, Agones, Prometheus and Terraform.
 
 Former meetup organiser in London helping organise [London Gophers](https://www.meetup.com/LondonGophers/) and [Prometheus London](https://www.meetup.com/Prometheus-London/).
 
